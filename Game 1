@@ -1,0 +1,12 @@
+# Python-Self-taught
+print("禾汐")
+temp = input("猜数字：")
+guess = int(temp)
+if guess == 8:
+    print("猜对了")
+    print("猜对了也没用")
+else:
+    print("猜错了")
+print("gamr over")
+    
+ 
